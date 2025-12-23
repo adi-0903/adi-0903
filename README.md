@@ -3,11 +3,8 @@
 🚀 AI & Machine Learning Specialist | Full-Stack Web & App Developer<br>
 🎓 B.Tech CSE @ Lovely Professional University<br>
 📍 Punjab, India<br><br>
-
 I engineer AI-driven systems with a strong emphasis on architecture, reproducibility, and real-world deployment. My expertise spans machine learning research, backend engineering, and full-stack development, enabling me to take ideas from model conception to scalable product execution.<br><br>
-
 I approach AI not as isolated models, but as end-to-end systems—designed with data pipelines, inference efficiency, evaluation metrics, and user experience in mind. I focus on building solutions that are technically rigorous, production-aware, and measurable in impact, especially in fast-moving startup environments.<br><br>
-
 I naturally take ownership of complex problems, lead implementation with clarity, and align technical decisions with product goals. Research-driven yet pragmatic, I value clean abstractions, scalable infrastructure, and continuous iteration over theoretical perfection.<br><br>
 
 # 💻 Tech Stack:
