@@ -1,5 +1,9 @@
 # 💫 About Me:
-I engineer AI-driven systems with a strong emphasis on architecture, reproducibility, and real-world deployment. My expertise spans machine learning research, backend engineering, and full-stack development, allowing me to take ideas from model conception to scalable product execution.<br><br>I approach AI not as isolated models, but as systems—designed with data pipelines, inference efficiency, evaluation metrics, and user experience in mind. Whether working with NLP transformers, computer vision pipelines, or end-to-end applications, I focus on building solutions that are technically rigorous, production-aware, and measurable in impact.<br><br>In fast-paced startup environments, I naturally take ownership of problems, make engineering trade-offs, and lead implementation with clarity and accountability. I enjoy mentoring, reviewing design decisions, and aligning technical direction with product goals, ensuring that innovation translates into sustainable growth.<br><br>I am research-driven in mindset—curious about emerging architectures and methodologies—yet pragmatic in execution, valuing clean abstractions, scalable infrastructure, and continuous iteration over theoretical perfection.
+I engineer AI-driven systems with a focus on architecture, reproducibility, and real-world deployment.
+My expertise spans machine learning research, backend engineering, and full-stack development.
+I approach AI as systems, designing data pipelines, optimizing inference, and ensuring measurable impact.
+In fast-paced environments, I take ownership, guide implementations, and align technical work with product goals.
+Curious and research-driven, I value clean abstractions, scalable infrastructure, and iterative progress.
 
 ### ✍️ Random Dev Quote
 ![](https://quotes-github-readme.vercel.app/api?type=horizontal&theme=radical)
