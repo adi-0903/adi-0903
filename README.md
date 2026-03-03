@@ -177,13 +177,43 @@ const aditya = {
 
 ---
 
-## <img src="https://raw.githubusercontent.com/Tarikul-Islam-Anik/Animated-Fluent-Emojis/master/Emojis/Animals/Snake.png" alt="Snake" width="30" /> Contribution Snake
+## <img src="https://raw.githubusercontent.com/Tarikul-Islam-Anik/Animated-Fluent-Emojis/master/Emojis/Objects/Calendar.png" alt="Calendar" width="30" /> 3D Contribution Graph
 
-<picture>
-  <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/adi-0903/adi-0903/output/github-snake-dark.svg" />
-  <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/adi-0903/adi-0903/output/github-snake.svg" />
-  <img alt="github-snake" src="https://raw.githubusercontent.com/adi-0903/adi-0903/output/github-snake-dark.svg" />
-</picture>
+<p align="center">
+  <a href="https://github.com/adi-0903">
+    <img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=adi-0903&theme=tokyonight" alt="Profile Details"/>
+  </a>
+</p>
+
+<p align="center">
+  <a href="https://github.com/adi-0903">
+    <img src="https://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=adi-0903&theme=tokyonight" alt="Repos per Language"/>
+    <img src="https://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=adi-0903&theme=tokyonight" alt="Most Commit Language"/>
+  </a>
+</p>
+
+<p align="center">
+  <a href="https://github.com/adi-0903">
+    <img src="https://github-profile-summary-cards.vercel.app/api/cards/stats?username=adi-0903&theme=tokyonight" alt="Stats"/>
+    <img src="https://github-profile-summary-cards.vercel.app/api/cards/productive-time?username=adi-0903&theme=tokyonight&utcOffset=5.5" alt="Productive Time"/>
+  </a>
+</p>
+
+---
+
+## <img src="https://raw.githubusercontent.com/Tarikul-Islam-Anik/Animated-Fluent-Emojis/master/Emojis/Travel%20and%20places/Comet.png" alt="Comet" width="30" /> Coding Activity
+
+<!--START_SECTION:waka-->
+<p align="center">
+  <img src="https://github-readme-stats.vercel.app/api/wakatime?username=adi0903&theme=tokyonight&hide_border=true&bg_color=0D1117&layout=compact" alt="Wakatime Stats"/>
+</p>
+<!--END_SECTION:waka-->
+
+<p align="center">
+  <img src="https://img.shields.io/badge/Focus-AI%20%26%20ML-blue?style=for-the-badge&color=5BCDEC"/>
+  <img src="https://img.shields.io/badge/Lives-India-success?style=for-the-badge&color=5BCDEC"/>
+  <img src="https://img.shields.io/badge/Languages-English%20%26%20Hindi-ff69b4?style=for-the-badge&color=5BCDEC"/>
+</p>
 
 ---
 
